@@ -15,7 +15,7 @@ SELECT *
 FROM layoffs_staging2
 WHERE industry LIKE 'Crypto%';
 
-UPDATE layoffs_staging2 -- Seet all Crypto-related industries to just 'Crypto'
+UPDATE layoffs_staging2 -- Set all Crypto-related industries to just 'Crypto'
 SET industry = 'Crypto'
 WHERE industry LIKE 'Crypto%';
 
@@ -24,7 +24,7 @@ SELECT DISTINCT country, TRIM(TRAILING  '.'  FROM country) -- Trim the '.' from 
 FROM layoffs_staging2
 ORDER BY 1;
 
-UPDATE layoffs_staging2 -- Seet all Crypto-related industries to just 'Crypto'
+UPDATE layoffs_staging2
 SET country = TRIM(TRAILING  '.'  FROM country)
 WHERE country LIKE 'United States%';
 
