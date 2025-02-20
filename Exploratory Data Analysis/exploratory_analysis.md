@@ -243,14 +243,14 @@ WHERE ranking <= 5;
 | **Salesforce**                        | 2023      | 8000               | 4           |
 | **Dell**                              | 2023      | 6650               | 5           |
 ### Observations
-*These are the companies with the most layoffs by year:
+*These are the companies with the most layoffs by year:*
 
-2020 - Uber, Booking.com, Groupon, Swiggy, Airbnb
+*2020 - Uber, Booking.com, Groupon, Swiggy, Airbnb*
 
-2021 - Bytedance, Katerra, Zillow, Instacart, WhiteHat Jr
+*2021 - Bytedance, Katerra, Zillow, Instacart, WhiteHat Jr*
 
-2022 - Meta, Amazon, Cisco, Peloton, Carvana, Philips
+*2022 - Meta, Amazon, Cisco, Peloton, Carvana, Philips*
 
-2023 - Google, Microsoft, Ericsson, Amazon, Salesforce, Dell*
+*2023 - Google, Microsoft, Ericsson, Amazon, Salesforce, Dell*
 
 ---
