@@ -1,4 +1,4 @@
-# 📊 Layoff Data Analysis (2020-2023)
+# Layoff Data Analysis (2020-2023)
 
 This project analyzes **global tech layoffs from 2020 to 2023**, focusing on **layoff trends, industry impact, and company performance**. Using **MySQL**, I cleaned, processed, and explored the dataset to uncover key insights into how layoffs varied by **industry, country, company stage, and year**.  
 
@@ -9,7 +9,7 @@ Through **SQL queries and data visualization**, this project provides a comprehe
 - **Rolling monthly layoff trends** over time.
 - The **countries that experienced the most layoffs**.
 
-### 🚀 Skills Demonstrated:
+### Skills Demonstrated:
 This project showcases my **SQL expertise** in:
 - **Data Cleaning**: Handling duplicates, missing values, and standardizing formats.
 - **Aggregation & Analysis**: Using `GROUP BY`, `WINDOW FUNCTIONS`, and `CTEs` for advanced queries.
