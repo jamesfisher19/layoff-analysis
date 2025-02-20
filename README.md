@@ -14,3 +14,5 @@ This project showcases my **SQL expertise** in:
 - **Data Cleaning**: Handling duplicates, missing values, and standardizing formats.
 - **Aggregation & Analysis**: Using `GROUP BY`, `WINDOW FUNCTIONS`, and `CTEs` for advanced queries.
 - **Performance Optimization**: Efficient query structuring for large datasets.
+---
+# [Layoff Analysis Pt.1](https://github.com/jamesfisher19/Data-Science-Project/blob/main/README.md)
