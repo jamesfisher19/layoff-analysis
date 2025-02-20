@@ -15,4 +15,4 @@ This project showcases my **SQL expertise** in:
 - **Aggregation & Analysis**: Using `GROUP BY`, `WINDOW FUNCTIONS`, and `CTEs` for advanced queries.
 - **Performance Optimization**: Efficient query structuring for large datasets.
 ---
-# [Layoff Analysis Pt.1](https://github.com/jamesfisher19/Data-Science-Project/blob/main/README.md)
+# [Layoff Analysis Pt.1](https://github.com/jamesfisher19/Data-Science-Project/tree/main)
